@@ -210,7 +210,7 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 
 ### 💡 我有个想法要实现
 **适合人群**：零基础/产品经理/创业者
-**学什么**：AI IDE 工具、需求拆解、页面设计、功能规划、提示词写法、原型迭代
+**学什么**：发现问题、验证需求、AI IDE、制作原型、接入 AI、用户反馈与迭代
 **你会得到**：一个可演示的产品原型
 
 [开始学习](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/learning-map/)
@@ -248,7 +248,7 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 ### 📖 内容导航
 
 <div align="center">
-  <img src="../../assets/readme-panels/01-learning-path.png" alt="Learning Map" width="100%">
+  <img src="../../assets/readme-panels/01-learning-path.svg" alt="Learning Map" width="100%">
 </div>
 
 ### 一、零基础入门
@@ -278,6 +278,15 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 | [七款 AI 编程工具对比](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-articles/example0-1/vibe-coding-tools-snake-game-tutorial)       | 对比测试主流 AI 编程平台                   |
 | [用设计和编程 Agent 设计网站](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-articles/example0-2/vibe-coding-tools-build-website-with-ai-coding-and-design-agents) | 学习如何使用 AI 智能体协同工作             |
 
+#### 更多入门练习
+
+- [从截图复刻：第一次模仿练习](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/clone-your-favorite-app/)
+- [创意灵感从哪里来](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-idea-sources/)
+- [Jobs to Be Done 需求理论](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-jobs-to-be-done/)
+- [The Mom Test：用户访谈方法](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-mom-test/)
+- [双钻设计模型](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-double-diamond/)
+- [在魔搭社区发布你的 Vibe Coding 产物](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/appendix-modelscope-static-site/)
+
 ### 二、初中级开发工程师
 
 #### 前端部分
@@ -303,13 +312,34 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 | [如何部署 Web 应用](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/backend/zeabur-deployment/)                     | 使用 CloudBase、Vercel、Zeabur 等平台部署应用上线           |
 | [CLI AI 编程工具](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/backend/modern-cli/)                              | 使用 CLI 类 AI 编程工具加速开发与调试，形成个人工程化工作流 |
 | [如何集成 Stripe 等收费系统](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/backend/stripe-payment/)               | 接入支付系统，完成收费链路与基础结算流程                    |
+
+#### 大作业
+
+| 章节 | 关键内容 |
+| :------ | :---------- |
 | [大作业：构建第一个现代应用程序-全栈应用](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/copywriting-platform-supabase/) | 综合前端、后端与支付模块，完成可上线的全栈 Web 应用         |
+| [在线考试与管理系统开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/exam-management-express/) | 角色权限、题库、考试、提交记录、批改与管理后台 |
+
+#### 更多项目实战
+
+| 项目 |
+| :------ |
+| [现代 AI 生图 SaaS 开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/modern-landing-page/) | |
+| [类 Dify 智能体平台开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/custom-dify-agent-platform/) | |
+| [智能旅游规划 Agent 平台开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/travel-planning-agent-platform/) | |
+| [Spring Boot 电影推荐系统开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/movie-recommendation-springboot/) | |
+| [生鲜电商微服务系统开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/simple-grocery-microservices/) | |
+| [Go 交通数据分析平台开发实战](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/traffic-data-visualization-go/) | |
 
 #### AI 能力附录
 
 | 章节                                                                                                     | 关键内容                                                       |
 | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
 | [Dify 入门与知识库集成](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/ai-capabilities/dify-knowledge-base/) | 用 Dify Workflow 与基础 RAG 搭建工具类产品，为后续应用升级打样 |
+
+#### 更多全栈教程
+
+- [把网站发到网上（进阶方式）：自己买台 VPS 服务器搭建发布](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/backend/cloud-server-deployment/)
 
 ### 三、高级开发工程师
 
@@ -321,6 +351,7 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 | [Claude Code MCP 完全指南](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/mcp/)                                 | 通过 MCP 让 Claude Code 连接 GitHub、数据库、API 等外部服务  |
 | [Claude Code Skills 完全指南](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/skills/)                           | 将专业知识打包成可复用技能包，一次配置反复使用               |
 | [Claude Code 工作流最佳实践](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/workflow/)                          | 日常开发、代码重构、Code Review 等场景的最佳实践             |
+| [用 GitHub Issues 驱动 AI 全流程开发：从需求讨论到 macOS 成品](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/github-iterative-development/) | 从需求规格、Issues 拆解到实现、测试与审查 |
 | [Claude Agent Teams 完全指南](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/agent-teams/)                      | 多 AI 实例协同工作，像真正的开发团队一样并行协作             |
 | [Claude Code Superpowers 工程级开发](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/superpowers/)               | 让 AI 写出工程级代码，遵循 TDD 和最佳实践                    |
 | [如何让 Claude Code 长时间工作](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/long-running-tasks/)             | 设计长时间运行的任务，让 Coding Tools 持续工作直到完成        |
@@ -346,6 +377,18 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
 | [什么是 RAG 以及它如何工作](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/ai-advanced/rag-introduction/)                | 系统理解 RAG 原理与常见架构，为复杂应用提供知识检索基础 |
 | [中高级 RAG 与工作流编排：以 LangGraph 为例](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/ai-advanced/langgraph-advanced-rag/) | 使用 LangGraph 等工具设计多步工作流与中高级 RAG 系统    |
+
+#### 更多进阶内容
+
+- [Claude Code 手机远程开发](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/mobile-development/)
+- [Claude Agent SDK 完全指南](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/claude-agent-sdk/)
+- [从 Vibe Coding 到 Spec Coding：先把需求写清楚，再让 AI 写代码](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/core-skills/spec-coding/)
+- [从开发一个网页，到真正的程序，再到 AI 原生创作者](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/ai-native-creator/)
+- [如何选择你的应用该开发的平台](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/choose-platform/)
+- [从零开始用 React Native + Expo 做一个门店巡检应用](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/react-native-expo/)
+- [如何开发 Flutter 跨平台应用](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/flutter-app/)
+- [如何用 Godot 开发横版、像素与 3D 游戏](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/godot-game-development/)
+- [如何把开发好的程序发布上架](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/app-publishing/)
 
 ### 📚 附录知识库
 

@@ -171,7 +171,7 @@ Illustrative project previews. Explore the corresponding tutorials:
 
 - **[2026-05-20]** 🌍 **Stage 1 multilingual coverage is now complete**: Stage 1 is fully available across all supported locales (zh-cn, en, zh-tw, ja-jp, ko-kr, es-es, fr-fr, de-de, ar-sa, vi-vn). Navigation/build checks have been verified to avoid 404s.
 - **[2026-03-29]** ✨ **Vibe Stories launched and upgraded with real user journeys**: Added a new homepage Vibe Stories section with an interactive carousel and dedicated story pages, then replaced placeholder content with four real user stories featuring a rural primary school teacher, a college student, a high school IT teacher, and a truck driver who built real products with AI. [👉 View the stories](https://datawhalechina.github.io/easy-vibe/zh-cn/vibe-stories/story-1.html)
-- **[2026-03-26]** 🚀 **Major Stage 2 practice update**: Completed the SaaS capstone project "[Your First SaaS Full-Stack App: Copywriting Generator Website](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/fullstack-app/)" and substantially expanded the "[How to integrate Stripe and payment systems](https://datawhalechina.github.io/easy-vibe/en/stage-2/backend/stripe-payment/)" section, plus key content around multi-product UI and WeChat Mini Program backend workflows.
+- **[2026-03-26]** 🚀 **Major Stage 2 practice update**: Completed the SaaS capstone project "[Your First SaaS Full-Stack App: Copywriting Generator Website](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/copywriting-platform-supabase/)" and substantially expanded the "[How to integrate Stripe and payment systems](https://datawhalechina.github.io/easy-vibe/en/stage-2/backend/stripe-payment/)" section, plus key content around multi-product UI and WeChat Mini Program backend workflows.
 - **[2026-03-25]** 📚 **New appendix: User Research and Requirement Validation**: Added four new articles covering idea sourcing, the Double Diamond model, Jobs to Be Done, and The Mom Test to help beginners discover and validate product ideas. [👉 Read the appendix](https://datawhalechina.github.io/easy-vibe/en/appendix/)
 - **[2026-03-25]** 📚 **English documentation fully updated**: Stage 2 (Full-stack Development) and Stage 3 (Advanced Development) are now fully available in English. [👉 Start learning](https://datawhalechina.github.io/easy-vibe/en/stage-2/)
 <details>
@@ -245,7 +245,7 @@ Illustrative project previews. Explore the corresponding tutorials:
 ### 📖 Content Navigation
 
 <div align="center">
-  <img src="../../assets/readme-panels/01-learning-path.png" alt="Learning Map" width="100%">
+  <img src="../../assets/readme-panels/01-learning-path.svg" alt="Learning Map" width="100%">
 </div>
 
 ### I. Beginner Entry
@@ -284,6 +284,11 @@ Illustrative project previews. Explore the corresponding tutorials:
 | [Comparison of Seven AI Programming Tools](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-articles/example0-1/vibe-coding-tools-snake-game-tutorial) | Compare major AI coding platforms through hands-on testing |
 | [Design Websites with Agents](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-articles/example0-2/vibe-coding-tools-build-website-with-ai-coding-and-design-agents) | Learn multi-agent collaboration in practice |
 
+#### More Beginner Practice
+
+- [Clone from a Screenshot: Your First Imitation Exercise](https://datawhalechina.github.io/easy-vibe/en/stage-1/clone-your-favorite-app/)
+- [Publish Your Vibe Coding Project on ModelScope](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-modelscope-static-site/)
+
 ### II. Junior and Mid-Level Developers
 
 #### Frontend
@@ -314,14 +319,29 @@ Illustrative project previews. Explore the corresponding tutorials:
 
 | Section | Key Content |
 | :------ | :---------- |
-| [Major Project 1: Your First SaaS Full-Stack App - AI Copywriting Website](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/fullstack-app/) | Build an AI marketing copy workspace with login, generation, billing, and admin management |
-| [Major Project 2: Online Exam and Management System](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/modern-frontend-trae/) | Build an online exam system with question generation, test-taking flows, and admin tools |
+| [Major Project 1: Your First SaaS Full-Stack App - AI Copywriting Website](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/copywriting-platform-supabase/) | Build an AI marketing copy workspace with login, generation, billing, and admin management |
+| [Major Project 2: Online Exam and Management System](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/exam-management-express/) | Build an online exam system with question generation, test-taking flows, and admin tools |
+
+#### More Project Practice
+
+| Section |
+| :------ |
+| [Modern AI Image Generation SaaS](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/modern-landing-page/) |
+| [Custom Dify Agent Platform](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/custom-dify-agent-platform/) |
+| [Travel Planning Agent Platform](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/travel-planning-agent-platform/) |
+| [Spring Boot Movie Recommendation System](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/movie-recommendation-springboot/) |
+| [Grocery E-Commerce Microservices System](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/simple-grocery-microservices/) |
+| [Go Traffic Data Analysis Platform](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/traffic-data-visualization-go/) |
 
 #### AI Capabilities Appendix
 
 | Section | Key Content |
 | :------ | :---------- |
 | [AI 1: Dify Basics & Knowledge Base Integration](https://datawhalechina.github.io/easy-vibe/en/stage-2/ai-capabilities/dify-knowledge-base/) | Learn to build AI applications with Dify and integrate private knowledge bases |
+
+#### More Full-Stack Tutorials
+
+- [Put Your Website Online (Advanced): Set Up Your Own VPS](https://datawhalechina.github.io/easy-vibe/en/stage-2/backend/cloud-server-deployment/)
 
 ### III. Advanced Developers
 
@@ -336,6 +356,7 @@ Illustrative project previews. Explore the corresponding tutorials:
 | [Claude Agent Teams guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/agent-teams/) | Coordinate multiple AI instances like a real development team |
 | [Claude Code Superpowers for engineering-grade development](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/superpowers/) | Help AI produce engineering-grade code with TDD and best practices |
 | [Claude Code workflow best practices](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/workflow/) | Best practices for refactoring, code review, and daily development |
+| [Building Software End to End with GitHub Issues: From Product Conversation to a macOS App](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/github-iterative-development/) | Spec → Issues → implementation → tests and review |
 | [Claude Code remote development on mobile](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mobile-development/) | Use Claude Code beyond the desktop and build a productive remote workflow on mobile devices |
 | [Claude Agent SDK complete guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/claude-agent-sdk/) | Build custom agent workflows and integrate Claude into your own tools with the SDK |
 | [From vibe coding to spec coding](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/spec-coding/) | Move from ad-hoc prompting to a more structured, specification-driven AI development workflow |
@@ -362,6 +383,14 @@ Illustrative project previews. Explore the corresponding tutorials:
 | :------ | :---------- |
 | [What is RAG and how does it work](https://datawhalechina.github.io/easy-vibe/en/stage-3/ai-advanced/rag-introduction/) | Build a systematic understanding of RAG principles and common architectures |
 | [Intermediate and advanced RAG workflows with LangGraph](https://datawhalechina.github.io/easy-vibe/en/stage-3/ai-advanced/langgraph-advanced-rag/) | Design multi-step workflows and more advanced RAG systems |
+
+#### More Advanced Tutorials
+
+- [From a Web Page to Real Software, and Then to an AI-Native Product](https://datawhalechina.github.io/easy-vibe/en/stage-3/cross-platform/ai-native-creator/)
+- [Build a Store Inspection App with React Native and Expo](https://datawhalechina.github.io/easy-vibe/en/stage-3/cross-platform/react-native-expo/)
+- [How to Build a Cross-Platform App with Flutter](https://datawhalechina.github.io/easy-vibe/en/stage-3/cross-platform/flutter-app/)
+- [How to Build Platform, Pixel-Art, and 3D Games with Godot](https://datawhalechina.github.io/easy-vibe/en/stage-3/cross-platform/godot-game-development/)
+- [How to Publish the Application You Built](https://datawhalechina.github.io/easy-vibe/en/stage-3/cross-platform/app-publishing/)
 
 ### 📚 Appendix Knowledge Base
 

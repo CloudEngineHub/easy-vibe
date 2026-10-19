@@ -4,8 +4,9 @@
 <img src="../../assets/banner.png" alt="Easy-Vibe — Nghĩ ra. Xây nên. Từ ý tưởng đầu tiên đến sản phẩm thực tế." width="100%">
 
 <p align="center" style="font-size: 1.2em; color: #666; margin: 20px 0;">
-  Học lập trình với AI từ con số 0 bằng cách xây dựng và ra mắt những sản phẩm thực tế.<br>
-  <span style="font-size: 0.9em; color: #888;">Learn AI coding from scratch by shipping real products.</span>
+  <strong>Từ Vibe Coding đến sản phẩm thực tế. Được hàng chục nghìn người học lựa chọn.</strong><br>
+  Liên tục hoàn thiện qua giảng dạy thực tế và phản hồi của người học. Lộ trình đầy đủ, giải thích tận tình và demo tương tác đồng hành cùng bạn từ con số không đến khi ra mắt sản phẩm.<br>
+  <span style="font-size: 0.9em; color: #888;">A hands-on Vibe Coding guide chosen by tens of thousands of learners.<br>Refined through real teaching and learner feedback. A complete roadmap, step-by-step explanations, and interactive demos guide you from zero to launch.</span>
 </p>
 
 <a href="https://trendshift.io/repositories/22079" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22079" alt="datawhalechina/easy-vibe | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>

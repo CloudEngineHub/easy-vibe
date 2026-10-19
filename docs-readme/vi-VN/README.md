@@ -115,13 +115,17 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="Chia se cau chuyen Vibe cua ban" width="100%">
+  <a href="../../CONTRIBUTING.md#share-your-case">
+    <img src="../../assets/readme-panels/04-vibe-stories-contribute.png" alt="Bản xem trước dự án từ các trường hợp thực tế cùng nhân vật minh họa; chia sẻ qua Pull Request" width="100%">
   </a>
-  <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
-    📝 <strong>Ban co cau chuyen vibe coding rieng?</strong>
-    Gui tai day va truyen cam hung cho nguoi khac!
+  <p><strong>Dự án tiếp theo xuất hiện ở đây có thể là của bạn.</strong><br>Chào đón công cụ lớp học, đồ án sinh viên, website cá nhân và bản demo đầu tiên.</p>
+  <p>Thêm câu chuyện, ảnh chụp hoặc GIF thực tế và liên kết demo hay kho mã nếu có. Điền theo mẫu và gửi Pull Request.</p>
+  <p>
+    <strong><a href="../../CONTRIBUTING.md#share-your-case">Gửi dự án của bạn →</a></strong> ·
+    <a href="../../user-cases/TEMPLATE.md">Mẫu chia sẻ</a> ·
+    <a href="https://github.com/datawhalechina/easy-vibe/compare?expand=1&amp;template=user_case.md">Mở Pull Request</a>
   </p>
+  <p><a href="../../user-cases/README.md">Xem các dự án thực tế →</a></p>
 </div>
 
 ## Muc luc

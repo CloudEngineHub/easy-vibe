@@ -115,13 +115,17 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="شارك قصة Vibe الخاصة بك" width="100%">
+  <a href="../../CONTRIBUTING.md#share-your-case">
+    <img src="../../assets/readme-panels/04-vibe-stories-contribute.png" alt="معاينات لمشاريع مبنية على حالات حقيقية مع شخصيات توضيحية؛ شارك عبر Pull Request" width="100%">
   </a>
-  <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
-    📝 <strong>هل لديك قصة vibe coding خاصة بك؟</strong>
-    أرسلها هنا وألهم الآخرين!
+  <p><strong>قد يكون مشروعك هو التالي هنا.</strong><br>نرحب بأدوات التعليم ومشاريع الطلاب والمواقع الشخصية وأول نموذج تجريبي تبنيه.</p>
+  <p>أضف قصتك ولقطة شاشة حقيقية أو GIF ورابط العرض أو المستودع إن توفر. اتبع القالب وافتح Pull Request.</p>
+  <p>
+    <strong><a href="../../CONTRIBUTING.md#share-your-case">شارك مشروعك →</a></strong> ·
+    <a href="../../user-cases/TEMPLATE.md">قالب المشاركة</a> ·
+    <a href="https://github.com/datawhalechina/easy-vibe/compare?expand=1&amp;template=user_case.md">فتح Pull Request</a>
   </p>
+  <p><a href="../../user-cases/README.md">استكشف حالات حقيقية →</a></p>
 </div>
 
 ## جدول المحتويات

@@ -115,13 +115,17 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="Comparte tu historia Vibe" width="100%">
+  <a href="../../CONTRIBUTING.md#share-your-case">
+    <img src="../../assets/readme-panels/04-vibe-stories-contribute.png" alt="Vistas de proyectos basados en casos reales con creadores ilustrativos; envía tu caso mediante Pull Request" width="100%">
   </a>
-  <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
-    📝 <strong>¿Tienes tu propia historia de vibe coding?</strong>
-    ¡Envíala aquí e inspira a otros!
+  <p><strong>Tu proyecto podría ser el próximo en aparecer aquí.</strong><br>Comparte herramientas para clase, proyectos de estudiantes, webs personales o tu primera demo.</p>
+  <p>Incluye tu historia, una captura real o GIF y un enlace a la demo o al repositorio si está disponible. Usa la plantilla y abre un Pull Request.</p>
+  <p>
+    <strong><a href="../../CONTRIBUTING.md#share-your-case">Envía tu caso →</a></strong> ·
+    <a href="../../user-cases/TEMPLATE.md">Plantilla de caso</a> ·
+    <a href="https://github.com/datawhalechina/easy-vibe/compare?expand=1&amp;template=user_case.md">Abrir un Pull Request</a>
   </p>
+  <p><a href="../../user-cases/README.md">Ver casos reales →</a></p>
 </div>
 
 ## Tabla de contenidos

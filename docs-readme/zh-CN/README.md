@@ -115,13 +115,17 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="分享你的 Vibe 故事" width="100%">
+  <a href="../../CONTRIBUTING.md#share-your-case">
+    <img src="../../assets/readme-panels/04-vibe-stories-contribute.png" alt="真实案例作品展示与创作者示意，欢迎通过 Pull Request 投稿" width="100%">
   </a>
-  <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
-    📝 <strong>有自己的 vibe coding 故事？</strong>
-    在这里提交，激励更多人！
+  <p><strong>下一个被看见的作品，可以是你的。</strong><br>课堂工具、课程作品、个人网站、第一个 demo，都欢迎分享。</p>
+  <p>准备你的故事、真实截图或 GIF，以及演示或仓库链接（如有），按模板整理后提交 Pull Request。</p>
+  <p>
+    <strong><a href="../../CONTRIBUTING.md#share-your-case">提交你的案例 →</a></strong> ·
+    <a href="../../user-cases/TEMPLATE.md">案例模板</a> ·
+    <a href="https://github.com/datawhalechina/easy-vibe/compare?expand=1&amp;template=user_case.md">发起 Pull Request</a>
   </p>
+  <p><a href="../../user-cases/README.md">看看真实案例 →</a></p>
 </div>
 
 ## 目录 / Table of Contents

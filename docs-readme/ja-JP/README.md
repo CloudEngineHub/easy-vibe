@@ -1,8 +1,6 @@
 <!-- trigger vercel build -->
 <div align="center">
 
-<img src="../../assets/easy-vibe-logo-hd.svg" alt="Easy-Vibe Logo" width="300">
-
 <img src="../../assets/banner.png" alt="Easy-Vibe — 考える。つくる。最初のアイデアから本物のプロダクトへ。" width="100%">
 
 <p align="center" style="font-size: 1.2em; color: #666; margin: 20px 0;">

@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/de-de/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="Interaktives Lernen: Prompt-Experimente, RAG erkunden und Terminal-Grundlagen" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="Teile deine Vibe-Story" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="Teile deine Vibe-Story" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>Hast du deine eigene Vibe-Coding-Story?</strong>
@@ -122,6 +129,7 @@
 ## Inhaltsverzeichnis
 
 - [Warum Easy-Vibe](#warum-easy-vibe)
+- [Was du bauen kannst](#was-du-bauen-kannst)
 - [Neuigkeiten](#-neuigkeiten)
 - [Fuer wen ist das](#fuer-wen-ist-das)
 - [Deine Lernpfade](#deine-lernpfade)
@@ -148,6 +156,16 @@ Im KI-Zeitalter beginnt Programmieren damit, zu beschreiben, was du willst.
 
 Easy-Vibe zeigt dir, wie du daraus ein echtes Produkt machst.
 
+
+## Was du bauen kannst
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="KI-Texter, Reiseplaner, Persönlicher Blog, KI-Browserassistent" width="100%">
+</p>
+
+Konzeptansichten der Projekte. Entdecke die passenden Tutorials:
+
+[KI-Texter](https://datawhalechina.github.io/easy-vibe/de-de/stage-2/assignments/copywriting-platform-supabase/) · [Reiseplaner](https://datawhalechina.github.io/easy-vibe/de-de/stage-2/assignments/travel-planning-agent-platform/) · [Persönlicher Blog](https://datawhalechina.github.io/easy-vibe/de-de/stage-3/personal-brand/personal-website-blog/) · [KI-Browserassistent](https://datawhalechina.github.io/easy-vibe/de-de/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 Neuigkeiten
 
@@ -227,7 +245,7 @@ Easy-Vibe zeigt dir, wie du daraus ein echtes Produkt machst.
 ### 📖 Inhaltliche Navigation
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="Lernkarte" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="Lernkarte" width="100%">
 </div>
 
 ### I. Einsteiger-Einstieg

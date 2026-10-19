@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/vi-vn/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="Học tương tác: thử nghiệm câu lệnh, khám phá RAG và nguyên lý terminal" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="Chia se cau chuyen Vibe cua ban" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="Chia se cau chuyen Vibe cua ban" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>Ban co cau chuyen vibe coding rieng?</strong>
@@ -122,6 +129,7 @@
 ## Muc luc
 
 - [Tai sao can Easy-Vibe](#tai-sao-can-easy-vibe)
+- [Bạn có thể xây dựng gì](#bạn-có-thể-xây-dựng-gì)
 - [Tin tuc](#-tin-tuc)
 - [Danh cho ai](#danh-cho-ai)
 - [Lo trinh hoc cua ban](#lo-trinh-hoc-cua-ban)
@@ -148,6 +156,16 @@ Trong thoi dai AI, lap trinh bat dau tu viec mo ta dieu ban muon.
 
 Easy-Vibe giup ban bien dieu do thanh mot san pham that.
 
+
+## Bạn có thể xây dựng gì
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="Trợ lý viết nội dung AI, Lập kế hoạch du lịch, Blog cá nhân, Trợ lý AI trên trình duyệt" width="100%">
+</p>
+
+Hình minh họa ý tưởng dự án. Khám phá các bài hướng dẫn tương ứng:
+
+[Trợ lý viết nội dung AI](https://datawhalechina.github.io/easy-vibe/vi-vn/stage-2/assignments/copywriting-platform-supabase/) · [Lập kế hoạch du lịch](https://datawhalechina.github.io/easy-vibe/vi-vn/stage-2/assignments/travel-planning-agent-platform/) · [Blog cá nhân](https://datawhalechina.github.io/easy-vibe/vi-vn/stage-3/personal-brand/personal-website-blog/) · [Trợ lý AI trên trình duyệt](https://datawhalechina.github.io/easy-vibe/vi-vn/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 Tin tuc
 
@@ -227,7 +245,7 @@ Easy-Vibe giup ban bien dieu do thanh mot san pham that.
 ### 📖 Dieu huong noi dung
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="Lo trinh hoc" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="Lo trinh hoc" width="100%">
 </div>
 
 ### I. Nhap mon nguoi moi

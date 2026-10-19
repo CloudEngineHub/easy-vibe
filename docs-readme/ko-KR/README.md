@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/ko-kr/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="인터랙티브 학습: 프롬프트 실험, RAG 탐색, 터미널 원리" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="나만의 Vibe 스토리 공유하기" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="나만의 Vibe 스토리 공유하기" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>나만의 vibe 코딩 스토리가 있나요?</strong>
@@ -122,6 +129,7 @@
 ## 목차
 
 - [왜 Easy-Vibe인가](#왜-easy-vibe인가)
+- [만들 수 있는 것](#만들-수-있는-것)
 - [소식](#-소식)
 - [이런 분들에게 추천합니다](#이런-분들에게-추천합니다)
 - [학습 경로](#학습-경로)
@@ -148,6 +156,16 @@ AI 시대의 프로그래밍은 원하는 것을 설명하는 데서 시작합�
 
 Easy-Vibe는 그것을 실제 제품으로 만드는 방법을 가르칩니다.
 
+
+## 만들 수 있는 것
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="AI 카피라이터, 여행 플래너, 개인 블로그, 브라우저 AI 도우미" width="100%">
+</p>
+
+프로젝트 콘셉트 예시입니다. 해당 튜토리얼을 따라 직접 만들어 보세요:
+
+[AI 카피라이터](https://datawhalechina.github.io/easy-vibe/ko-kr/stage-2/assignments/copywriting-platform-supabase/) · [여행 플래너](https://datawhalechina.github.io/easy-vibe/ko-kr/stage-2/assignments/travel-planning-agent-platform/) · [개인 블로그](https://datawhalechina.github.io/easy-vibe/ko-kr/stage-3/personal-brand/personal-website-blog/) · [브라우저 AI 도우미](https://datawhalechina.github.io/easy-vibe/ko-kr/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 소식
 
@@ -227,7 +245,7 @@ Easy-Vibe는 그것을 실제 제품으로 만드는 방법을 가르칩니다.
 ### 📖 콘텐츠 내비게이션
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="학습 지도" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="학습 지도" width="100%">
 </div>
 
 ### I. 초보자 입문

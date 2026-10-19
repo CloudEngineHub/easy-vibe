@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/ar-sa/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="تعلم تفاعلي: تجارب الأوامر واستكشاف RAG ومفاهيم الطرفية" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="شارك قصة Vibe الخاصة بك" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="شارك قصة Vibe الخاصة بك" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>هل لديك قصة vibe coding خاصة بك؟</strong>
@@ -122,6 +129,7 @@
 ## جدول المحتويات
 
 - [لماذا Easy-Vibe](#لماذا-easy-vibe)
+- [ما يمكنك بناؤه](#ما-يمكنك-بناؤه)
 - [أخبار](#-news)
 - [لمن هذا المشروع](#لمن-هذا-المشروع)
 - [مسارات التعلّم الخاصة بك](#مسارات-التعلّم-الخاصة-بك)
@@ -148,6 +156,16 @@
 
 Easy-Vibe يعلمك كيف تحول ذلك إلى منتج حقيقي.
 
+
+## ما يمكنك بناؤه
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="كاتب نصوص بالذكاء الاصطناعي, مخطط رحلات, مدونة شخصية, مساعد ذكاء اصطناعي للمتصفح" width="100%">
+</p>
+
+تصورات توضيحية للمشاريع. استكشف الدروس المقابلة:
+
+[كاتب نصوص بالذكاء الاصطناعي](https://datawhalechina.github.io/easy-vibe/ar-sa/stage-2/assignments/copywriting-platform-supabase/) · [مخطط رحلات](https://datawhalechina.github.io/easy-vibe/ar-sa/stage-2/assignments/travel-planning-agent-platform/) · [مدونة شخصية](https://datawhalechina.github.io/easy-vibe/ar-sa/stage-3/personal-brand/personal-website-blog/) · [مساعد ذكاء اصطناعي للمتصفح](https://datawhalechina.github.io/easy-vibe/ar-sa/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 News
 
@@ -227,7 +245,7 @@ Easy-Vibe يعلمك كيف تحول ذلك إلى منتج حقيقي.
 ### 📖 التنقل في المحتوى
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="خريطة التعلّم" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="خريطة التعلّم" width="100%">
 </div>
 
 ### أولاً: دخول المبتدئين

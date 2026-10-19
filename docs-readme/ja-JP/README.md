@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/ja-jp/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="対話型学習：プロンプト実験、RAG の探索、ターミナルの仕組み" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="あなたの Vibe ストーリーをシェア" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="あなたの Vibe ストーリーをシェア" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>あなたの vibe coding ストーリーがありますか？</strong> 
@@ -122,6 +129,7 @@
 ## 目次
 
 - [なぜ Easy-Vibe なのか](#なぜ-easy-vibe-なのか)
+- [作れるもの](#作れるもの)
 - [ニュース](#-news)
 - [こんな人におすすめ](#こんな人におすすめ)
 - [あなたの学習パス](#あなたの学習パス)
@@ -148,6 +156,16 @@ AI 時代のプログラミングは、欲しいものを言葉で伝えるこ�
 
 Easy-Vibe は、それを本物のプロダクトにする方法を教えます。
 
+
+## 作れるもの
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="AI コピーライター, 旅行プランナー, 個人ブログ, ブラウザ AI アシスタント" width="100%">
+</p>
+
+プロジェクトのコンセプト例です。対応するチュートリアルで作ってみましょう：
+
+[AI コピーライター](https://datawhalechina.github.io/easy-vibe/ja-jp/stage-2/assignments/copywriting-platform-supabase/) · [旅行プランナー](https://datawhalechina.github.io/easy-vibe/ja-jp/stage-2/assignments/travel-planning-agent-platform/) · [個人ブログ](https://datawhalechina.github.io/easy-vibe/ja-jp/stage-3/personal-brand/personal-website-blog/) · [ブラウザ AI アシスタント](https://datawhalechina.github.io/easy-vibe/ja-jp/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 ニュース
 
@@ -227,7 +245,7 @@ Easy-Vibe は、それを本物のプロダクトにする方法を教えます�
 ### 📖 コンテンツナビゲーション
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="学習マップ" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="学習マップ" width="100%">
 </div>
 
 ### I. 初心者入門

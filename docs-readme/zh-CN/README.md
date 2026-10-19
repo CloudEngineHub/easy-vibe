@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/zh-cn/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="交互式学习：提示词实验、RAG 探索与终端原理" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="分享你的 Vibe 故事" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="分享你的 Vibe 故事" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>有自己的 vibe coding 故事？</strong>
@@ -122,6 +129,7 @@
 ## 目录 / Table of Contents
 
 - [为什么需要 Easy-Vibe](#为什么需要-easy-vibe)
+- [你能做出什么](#你能做出什么)
 - [News](#-news)
 - [适合谁](#适合谁)
 - [你的学习路径](#你的学习路径)
@@ -147,6 +155,16 @@
 在 AI 时代，编程先从描述你想要什么开始。
 
 Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
+
+## 你能做出什么
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="AI 文案生成器, 旅行规划助手, 个人博客, 浏览器 AI 助手" width="100%">
+</p>
+
+这些是项目概念展示，跟着对应教程动手实现：
+
+[AI 文案生成器](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/copywriting-platform-supabase/) · [旅行规划助手](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-2/assignments/travel-planning-agent-platform/) · [个人博客](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/personal-brand/personal-website-blog/) · [浏览器 AI 助手](https://datawhalechina.github.io/easy-vibe/zh-cn/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 News
 
@@ -230,7 +248,7 @@ Easy-Vibe 教你的，就是怎样把它一步步做成真正的产品。
 ### 📖 内容导航
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="Learning Map" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="Learning Map" width="100%">
 </div>
 
 ### 一、零基础入门

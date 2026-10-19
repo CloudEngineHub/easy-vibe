@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/fr-fr/appendix/">
+    <img src="../../assets/readme-panels/03-interactive-learning.png" alt="Apprentissage interactif : expériences de prompts, exploration du RAG et principes du terminal" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="Partagez votre histoire Vibe" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../../assets/readme-panels/04-vibe-stories-people.png" alt="Partagez votre histoire Vibe" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>Vous avez votre propre histoire de vibe coding ?</strong>
@@ -122,6 +129,7 @@
 ## Table des matières
 
 - [Pourquoi Easy-Vibe](#pourquoi-easy-vibe)
+- [Ce que vous pouvez créer](#ce-que-vous-pouvez-créer)
 - [Actualités](#-news)
 - [Pour qui est-ce](#pour-qui-est-ce)
 - [Vos parcours d'apprentissage](#vos-parcours-dapprentissage)
@@ -148,6 +156,16 @@ A l'ere de l'IA, programmer commence par decrire ce que vous voulez.
 
 Easy-Vibe vous apprend a transformer cela en un vrai produit.
 
+
+## Ce que vous pouvez créer
+
+<p align="center">
+  <img src="../../assets/readme-panels/02-project-gallery.png" alt="Rédacteur IA, Planificateur de voyages, Blog personnel, Assistant IA pour navigateur" width="100%">
+</p>
+
+Aperçus conceptuels de projets. Explorez les tutoriels correspondants :
+
+[Rédacteur IA](https://datawhalechina.github.io/easy-vibe/fr-fr/stage-2/assignments/copywriting-platform-supabase/) · [Planificateur de voyages](https://datawhalechina.github.io/easy-vibe/fr-fr/stage-2/assignments/travel-planning-agent-platform/) · [Blog personnel](https://datawhalechina.github.io/easy-vibe/fr-fr/stage-3/personal-brand/personal-website-blog/) · [Assistant IA pour navigateur](https://datawhalechina.github.io/easy-vibe/fr-fr/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 News
 
@@ -227,7 +245,7 @@ Easy-Vibe vous apprend a transformer cela en un vrai produit.
 ### 📖 Navigation du contenu
 
 <div align="center">
-  <img src="../../assets/readme-image1.png" alt="Carte d'apprentissage" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="../../assets/readme-panels/01-learning-path.png" alt="Carte d'apprentissage" width="100%">
 </div>
 
 ### I. Entrée debutant

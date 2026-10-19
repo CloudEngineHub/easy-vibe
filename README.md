@@ -55,6 +55,13 @@
 </p>
 
 </div>
+
+<p align="center">
+  <a href="https://datawhalechina.github.io/easy-vibe/en/appendix/">
+    <img src="assets/readme-panels/03-interactive-learning.png" alt="Interactive learning: prompt experiments, RAG exploration, and terminal concepts" width="100%">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -111,7 +118,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/datawhalechina/easy-vibe/issues/new?template=story_submission.md">
-    <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="Share Your Vibe Story" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="assets/readme-panels/04-vibe-stories-people.png" alt="Share Your Vibe Story" width="100%">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
     📝 <strong>Have your own vibe coding story?</strong> 
@@ -122,6 +129,7 @@
 ## Table of Contents
 
 - [Why Easy-Vibe](#why-easy-vibe)
+- [What You Can Build](#what-you-can-build)
 - [News](#-news)
 - [Who This Is For](#who-this-is-for)
 - [Your Learning Paths](#your-learning-paths)
@@ -148,6 +156,16 @@ In the AI era, programming starts by describing what you want.
 
 Easy-Vibe teaches you how to turn that into a real product.
 
+
+## What You Can Build
+
+<p align="center">
+  <img src="assets/readme-panels/02-project-gallery.png" alt="AI Copywriter, Travel Planner, Personal Blog, Browser AI Assistant" width="100%">
+</p>
+
+Illustrative project previews. Explore the corresponding tutorials:
+
+[AI Copywriter](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/copywriting-platform-supabase/) · [Travel Planner](https://datawhalechina.github.io/easy-vibe/en/stage-2/assignments/travel-planning-agent-platform/) · [Personal Blog](https://datawhalechina.github.io/easy-vibe/en/stage-3/personal-brand/personal-website-blog/) · [Browser AI Assistant](https://datawhalechina.github.io/easy-vibe/en/stage-3/cross-platform/browser-ai-extension/)
 
 ## 🔥 News
 
@@ -228,7 +246,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 ### 📖 Content Navigation
 
 <div align="center">
-  <img src="assets/readme-image1.png" alt="Easy Vibe learning map: from idea validation to full-stack delivery and advanced AI coding" width="70%" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(45,55,72,0.3); margin: 15px 0;"/>
+  <img src="assets/readme-panels/01-learning-path.png" alt="Easy Vibe learning map: from idea validation to full-stack delivery and advanced AI coding" width="100%">
 </div>
 
 ### I. Beginner Entry

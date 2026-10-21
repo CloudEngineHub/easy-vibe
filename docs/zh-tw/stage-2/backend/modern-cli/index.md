@@ -306,7 +306,7 @@ export ANTHROPIC_API_KEY="YOUR_DASHSCOPE_API_KEY"
 
 該工具還提供了方便的 UI/CLI 配置管理能力，並通過"轉換器（converter）"適配不同平臺的 API 格式。它支持 GitHub Actions 等自動化集成以及自定義擴展，解決了"單一模型無法覆蓋所有場景"以及"頻繁切換平臺很麻煩"的問題，幫助用戶更靈活、低成本地利用 AI 工具。
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 下面我們簡單介紹如何安裝 Claude Code Router。大致需要以下步驟（同樣可以讓 Trae 幫你執行），以準備好相關環境：
 
@@ -527,7 +527,7 @@ I can use the command `codex --profile myrelay` to run it
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode 是一款面向開發者的開源 AI Coding Agent 平臺，定位類似於 “多模型版的 Claude Code”。它以 Terminal 為核心交互入口，同時也支持編輯器集成（如 VS Code、Neovim 等），能夠深度接入本地程式碼倉庫，並通過自然語言完成從程式碼理解到工程執行的一整套開發流程。
 
@@ -579,7 +579,7 @@ npm i -g opencode-ai
 
 OpenCode 的強大之處還在於他有非常活躍的社區生態，你可以在 Github 上搜索出非常多與 OpenCode 相關的插件。如果說 OpenCode 是一款可以任意切換模型的 AI 協作工具的話，那麼 Oh-My-OpenAgent 就是一款運行在 OpenCode 之上的 "多 Agent AI 程式設計指揮系統"。它可以將一個複雜任務拆給多個子任務分給不同的模型進行各司其職的工作。
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 你可以將以下話術複製之後粘貼給上文在 OpenCode 中配置好的模型進行安裝 OpenCode。
 

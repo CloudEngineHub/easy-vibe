@@ -32,7 +32,7 @@ Android開発とは、このようなアプリケーションを構築するプ�
 **第一の方法：ネイティブ開発**
 これはGoogle公式の推奨ルートです。直接**Kotlin**と**Jetpack Compose**を使って開発します。利点は最高のパフォーマンスとスマホハードウェアへの完全なアクセスです。
 
-![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **第二の方法：クロスプラットフォーム開発**
 例えばFlutterやReact Nativeです。核心的なアイデアは「一つのコードベースを書いて、AndroidとiOSの両方のアプリを生成する」ことです。

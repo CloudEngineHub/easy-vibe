@@ -12,13 +12,13 @@
 4. 已安裝並開啟 Trae
 5. 一個可用的 Apple ID
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.png)
 
 ### 1.1 iOS 應用程式
 
 iOS 應用程式是運行在 iPhone 作業系統上的原生應用。它啟動快速、體驗流暢，可以深度使用通知、相機、本機儲存等系統功能。
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.png)
 
 ### 1.2 iOS 應用程式開發
 
@@ -51,7 +51,7 @@ iOS 應用程式是運行在 iPhone 作業系統上的原生應用。它啟動�
 
 使用者輸入冰箱中目前可用的食材，應用程式使用真實的 AI API 生成可行的食譜，然後將結果儲存到本機供日後查看。這個範例完整涵蓋了真實 iOS 應用程式的核心部分，包括 UI 輸入和顯示、網路請求、資料解析、本機儲存，以及最終在真實裝置上安裝和運行。
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.png)
 
 - 從原型到原生應用的整體思路
 

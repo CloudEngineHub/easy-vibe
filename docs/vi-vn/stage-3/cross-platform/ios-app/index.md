@@ -12,13 +12,13 @@ Trong hướng dẫn này, chúng ta sẽ hoàn thành một vòng lặp khép k
 4. Trae đã được cài đặt và mở
 5. Một Apple ID có thể sử dụng được
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.png)
 
 ### 1.1 Ứng Dụng iOS
 
 Ứng dụng iOS là một ứng dụng native chạy trên hệ điều hành iPhone. Nó khởi động nhanh, hoạt động mượt mà và có thể sử dụng sâu các tính năng hệ thống như thông báo, camera và lưu trữ cục bộ.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.png)
 
 ### 1.2 Phát Triển Ứng Dụng iOS
 
@@ -51,7 +51,7 @@ Dựa trên các cách tiếp cận trên, hướng dẫn này chọn: **phát t
 
 Người dùng nhập các nguyên liệu hiện có trong tủ lạnh và ứng dụng sử dụng API AI thực để tạo một công thức khả thi, sau đó lưu kết quả cục bộ để xem lại sau. Ví dụ này bao gồm đầy đủ các phần cốt lõi của một ứng dụng iOS thực tế, bao gồm đầu vào và hiển thị UI, yêu cầu mạng, phân tích dữ liệu, lưu trữ cục bộ và cài đặt chạy cuối cùng trên thiết bị thực.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.png)
 
 - Ý tưởng tổng thể từ nguyên mẫu đến ứng dụng native
 

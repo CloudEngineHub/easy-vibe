@@ -32,7 +32,7 @@ In der echten Entwicklung gibt es mehr als einen Weg, Android-Apps zu erstellen.
 **Der erste Weg: Native Entwicklung**
 Dies ist Googles offizielle und empfohlene Route. Du verwendest direkt **Kotlin** und **Jetpack Compose** zur Entwicklung. Der Vorteil ist die beste Performance und der vollstaendige Zugriff auf die Telefon-Hardware.
 
-![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **Der zweite Weg: Plattformuebergreifende Entwicklung**
 Zum Beispiel Flutter oder React Native. Die Kernidee ist „ein Codebase schreiben und sowohl Android- als auch iOS-Apps generieren".

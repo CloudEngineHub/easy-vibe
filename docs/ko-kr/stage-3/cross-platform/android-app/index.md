@@ -32,7 +32,7 @@ Android 개발은 이러한 애플리케이션을 구축하는 전체 과정을 
 **첫 번째 방법: 네이티브 개발**
 이것은 Google의 공식 권장 루트입니다. **Kotlin**과 **Jetpack Compose**를 직접 사용하여 개발합니다. 장점은 최고의 성능과 폰 하드웨어에 대한 완전한 접근입니다.
 
-![](/zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](/zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](/zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](/zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **두 번째 방법: 크로스 플랫폼 개발**
 예를 들어 Flutter나 React Native가 있습니다. 핵심 아이디어는 "하나의 코드베이스로 Android와 iOS 앱을 모두 생성하는 것"입니다.

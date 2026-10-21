@@ -52,7 +52,7 @@ Apple 的[企业开发入口](https://developer.apple.com/business/get-started/)
 
 iOS 应用需要一台能运行当前 Xcode 的 Mac。真机测试还需要 iPhone 和 Apple ID；只有模拟器测试时，可以暂时不接手机。
 
-![Mac 与 iPhone 开发环境](images/image1.webp)
+![Mac 与 iPhone 开发环境](images/image1.png)
 
 从 Mac App Store 安装 Xcode，第一次启动时等待开发组件安装完成。
 

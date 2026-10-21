@@ -12,13 +12,13 @@
 4. Trae がインストールされて開いていること
 5. 使用可能な Apple ID
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.png)
 
 ### 1.1 iOS アプリ
 
 iOS アプリは、iPhone オペレーティングシステム上で実行されるネイティブアプリケーションです。素早く起動し、スムーズに動作し、通知、カメラ、ローカルストレージなどのシステム機能を深く活用できます。
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.png)
 
 ### 1.2 iOS アプリ開発
 
@@ -51,7 +51,7 @@ iOS アプリは、iPhone オペレーティングシステム上で実行され
 
 ユーザーが冷蔵庫にある食材を入力すると、アプリが実際の AI API を使用して実現可能なレシピを生成し、結果をローカルに保存して後で確認できます。この例は、UI 入力と表示、ネットワークリクエスト、データ解析、ローカルストレージ、実機での最終インストールと実行を含む、実際の iOS アプリケーションの核心部分を完全にカバーしています。
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.png)
 
 - プロトタイプからネイティブアプリまでの全体的なアイデア
 

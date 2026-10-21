@@ -306,7 +306,7 @@ Arriba hemos explicado como reemplazar la interfaz de Anthropic de Claude Code c
 
 La herramienta tambien ofrece una comoda capacidad de gestion de configuracion UI/CLI, y adapta los formatos de API de diferentes plataformas a traves de "convertidores (converter)". Soporta integraciones automatizadas como GitHub Actions y extensiones personalizadas, resolviendo los problemas de que "un unico modelo no puede cubrir todos los escenarios" y que "cambiar frecuentemente de plataforma es molesto", ayudando a los usuarios a utilizar herramientas AI de forma mas flexible y con menores costes.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 A continuacion explicamos brevemente como instalar Claude Code Router. A grandes rasgos, necesitas los siguientes pasos (tambien puedes pedir a Trae que los ejecute por ti) para preparar el entorno correspondiente:
 
@@ -527,7 +527,7 @@ Una vez completada la configuracion, puedes iniciar Codex con la API reenviada u
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode es una plataforma de AI Coding Agent de codigo abierto para desarrolladores, posicionada como una "version multi-modelo de Claude Code". Tiene la Terminal como punto de entrada principal de interaccion, y tambien soporta integracion con editores (como VS Code, Neovim, etc.), pudiendo conectarse profundamente con repositorios de codigo locales y completar todo un flujo de desarrollo, desde la comprension del codigo hasta la ejecucion de ingenieria, a traves de lenguaje natural.
 
@@ -579,7 +579,7 @@ Copia este enlace al navegador para completar el inicio de sesion normal de Open
 
 La fortaleza de OpenCode tambien radica en su ecosistema comunitario muy activo. Puedes buscar en GitHub muchisimos plugins relacionados con OpenCode. Si OpenCode es una herramienta de colaboracion AI que permite cambiar libremente de modelo, entonces Oh-My-OpenAgent es un "sistema de mando de programacion multi-Agent AI" que se ejecuta sobre OpenCode. Puede descomponer una tarea compleja en multiples subtareas y asignarlas a diferentes modelos para que cada uno haga lo suyo.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 Puedes copiar el siguiente texto y pegarlo en el modelo que hayas configurado en OpenCode para instalar OpenCode.
 

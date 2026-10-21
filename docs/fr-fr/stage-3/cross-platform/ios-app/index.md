@@ -12,13 +12,13 @@ Pour ce tutoriel, vous devez au moins disposer de :
 4. Trae installé et ouvert
 5. Un Apple ID utilisable
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.png)
 
 ### 1.1 Application iOS
 
 Une application iOS est une application native fonctionnant sur le système d'exploitation de l'iPhone. Elle se lance rapidement, paraît fluide et peut utiliser profondément les fonctionnalités du système comme les notifications, l'appareil photo et le stockage local.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.png)
 
 ### 1.2 Développement d'applications iOS
 
@@ -51,7 +51,7 @@ L'application exemple utilisée dans ce tutoriel est **FridgeChef**.
 
 L'utilisateur entre les ingrédients actuellement disponibles dans le réfrigérateur, et l'application utilise une véritable API d'IA pour générer une recette réalisable, puis sauvegarde le résultat localement pour consultation ultérieure. Cet exemple couvre entièrement les parties principales d'une véritable application iOS, incluant l'entrée et l'affichage de l'interface, les requêtes réseau, l'analyse de données, le stockage local, et l'installation et l'exécution finales sur un véritable appareil.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.png)
 
 - L'idée générale du prototype à l'application native
 

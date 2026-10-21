@@ -32,7 +32,7 @@
 **الطريقة الأولى: التطوير الأصلي**
 هذا هو المسار الرسمي والموصى به من جوجل. تستخدم مباشرة **Kotlin** و **Jetpack Compose** للتطوير. ميزته هي أفضل أداء ووصول كامل إلى أجهزة الهاتف.
 
-![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **الطريقة الثانية: التطوير متعدد المنصات**
 على سبيل المثال Flutter أو React Native. الفكرة الأساسية هي "كتابة قاعدة كود واحدة وإنشاء تطبيقات أندرويد وiOS معًا."

@@ -12,13 +12,13 @@ For this tutorial, you should at least have:
 4. Trae installed and opened
 5. A usable Apple ID
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.png)
 
 ### 1.1 iOS App
 
 An iOS App is a native application running on the iPhone operating system. It launches quickly, feels smooth, and can deeply use system features such as notifications, camera, and local storage.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.png)
 
 ### 1.2 iOS App Development
 
@@ -51,7 +51,7 @@ The sample app used in this tutorial is **FridgeChef**.
 
 The user enters the ingredients currently available in the fridge, and the app uses a real AI API to generate a feasible recipe, then saves the result locally for later review. This example fully covers the core parts of a real iOS application, including UI input and display, network requests, data parsing, local storage, and final installation and running on a real device.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.png)
 
 - The overall idea from prototype to native app
 

@@ -306,7 +306,7 @@ Oben haben wir erklaert, wie man die offizielle GLM-API verwendet, um die Anthro
 
 Das Tool bietet zudem komfortable UI/CLI-Konfigurationsverwaltung und passt sich durch "Konverter (converter)" an die API-Formate verschiedener Plattformen an. Es unterstuetzt Automatisierungsintegrationen wie GitHub Actions sowie benutzerdefinierte Erweiterungen. Es loest das Problem, dass "ein einzelnes Modell nicht alle Szenarien abdecken kann" und "haeufiges Plattformwechseln muehsam ist", und hilft Nutzern, KI-Tools flexibler und kostenguenstiger einzusetzen.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 Im Folgenden stellen wir kurz vor, wie man Claude Code Router installiert. Die ungefaehren Schritte sind die folgenden (auch hier kann Trae die Ausfuehrung uebernehmen), um die entsprechende Umgebung vorzubereiten:
 
@@ -527,7 +527,7 @@ Nach Abschluss der Konfiguration kannst du Codex mit `codex --profile myrelay` s
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode ist eine Open-Source KI Coding Agent-Plattform fuer Entwickler, positioniert als "Multi-Modell-Version von Claude Code". Mit dem Terminal als Kern-Interaktionseintrag unterstuetzt es auch Editor-Integrationen (wie VS Code, Neovim usw.), kann tief in lokale Codebasen eingebunden werden und durch natuerliche Sprache einen kompletten Entwicklungsprozess von Codeverstaendnis bis Engineering-Ausfuehrung abschliessen.
 
@@ -579,7 +579,7 @@ Kopiere diesen Link in deinen Browser und fuehre einen normalen OpenAI-Login dur
 
 Die Staerke von OpenCode liegt auch in seiner sehr aktiven Community-Oekologie. Du kannst auf Github sehr viele OpenCode-bezogene Plugins finden. Wenn OpenCode ein KI-Zusammenarbeitstool ist, das beliebige Modelle wechseln kann, dann ist Oh-My-OpenAgent ein "Multi-Agent KI-Programmier-Kommandosystem", das auf OpenCode laeuft. Es kann eine komplexe Aufgabe in mehrere Sub-Aufgaben aufteilen und diese verschiedenen Modellen zur getrennten Bearbeitung zuweisen.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 Du kannst den folgenden Text kopieren und dem zuvor konfigurierten Modell in OpenCode zum Installieren von OpenCode uebergeben.
 

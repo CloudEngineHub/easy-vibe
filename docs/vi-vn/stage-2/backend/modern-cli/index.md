@@ -306,7 +306,7 @@ export ANTHROPIC_API_KEY="YOUR_DASHSCOPE_API_KEY"
 
 Công cụ này còn cung cấp khả năng quản lý cấu hình UI/CLI thuận tiện, và thông qua "bộ chuyển đổi (converter)" thích ứng định dạng API của các nền tảng khác nhau. Nó hỗ trợ tích hợp tự động như GitHub Actions và mở rộng tùy chỉnh, giải quyết vấn đề "một mô hình không thể bao phủ tất cả kịch bản" và "chuyển đổi nền tảng thường xuyên rất phiền", giúp người dùng sử dụng công cụ AI linh hoạt và tiết kiệm hơn.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 Dưới đây chúng tôi giới thiệu đơn giản cách cài đặt Claude Code Router. Khoảng cần các bước sau (cũng có thể để Trae giúp bạn thực thi), để chuẩn bị môi trường liên quan:
 
@@ -527,7 +527,7 @@ Sau khi cấu hình xong, bạn có thể khởi động Codex sử dụng API c
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode là một nền tảng AI Coding Agent mã nguồn mở dành cho nhà phát triển, định vị tương tự như "phiên bản Claude Code đa mô hình". Nó lấy Terminal làm cổng tương tác cốt lõi, đồng thời hỗ trợ tích hợp trình soạn thảo (như VS Code, Neovim, v.v.), có thể truy cập sâu kho mã cục bộ, và hoàn thành toàn bộ quy trình phát triển từ hiểu mã đến thực thi kỹ thuật thông qua ngôn ngữ tự nhiên.
 
@@ -579,7 +579,7 @@ Sao chép liên kết này vào trình duyệt để thực hiện đăng nhập
 
 Điểm mạnh của OpenCode còn nằm ở cộng đồng sinh thái rất năng động, bạn có thể tìm thấy rất nhiều plugin liên quan đến OpenCode trên Github. Nếu nói OpenCode là một công cụ lập trình AI có thể chuyển đổi mô hình tùy ý, thì Oh-My-OpenAgent là một "hệ thống chỉ huy lập trình AI đa Agent" chạy trên OpenCode. Nó có thể phân giải một tác vụ phức tạp thành nhiều sub-task giao cho các mô hình khác nhau, mỗi mô hình đảm nhận phần việc riêng.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 Bạn có thể sao chép đoạn văn bản dưới đây và dán cho mô hình đã cấu hình trong OpenCode để cài đặt OpenCode.
 

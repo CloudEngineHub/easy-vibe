@@ -12,13 +12,13 @@
 4. Trae가 설치되어 열려 있음
 5. 사용 가능한 Apple ID
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image1.png)
 
 ### 1.1 iOS 앱
 
 iOS 앱은 iPhone 운영 체제에서 실행되는 네이티브 애플리케이션입니다. 빠르게 실행되고 부드럽게 작동하며 알림, 카메라 및 로컬 저장소와 같은 시스템 기능을 깊이 활용할 수 있습니다.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image2.png)
 
 ### 1.2 iOS 앱 개발
 
@@ -51,7 +51,7 @@ iOS 앱은 iPhone 운영 체제에서 실행되는 네이티브 애플리케이�
 
 사용자가 냉장고에 현재 있는 식재료를 입력하면 앱이 실제 AI API를 사용하여 가능한 레시피를 생성하고 결과를 로컬에 저장하여 나중에 검토할 수 있습니다. 이 예제는 UI 입력 및 표시, 네트워크 요청, 데이터 파싱, 로컬 저장소 및 실제 디바이스에서의 최종 설치 및 실행을 포함하여 실제 iOS 애플리케이션의 핵심 부분을 완전히 다룹니다.
 
-![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.webp)
+![](../../../../zh-cn/stage-3/cross-platform/ios-app/images/image6.png)
 
 - 프로토타입에서 네이티브 앱까지의 전체 아이디어
 

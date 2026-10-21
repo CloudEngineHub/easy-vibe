@@ -302,7 +302,7 @@ Above we explained how to replace Claude Code's Anthropic interface with the off
 
 This tool also provides convenient UI/CLI configuration management and uses converters to adapt API formats from different platforms. It supports automation integration such as GitHub Actions and custom extensions, solving the problems of "one single model cannot cover all scenarios" and "frequent platform switching is troublesome," helping users use AI tools more flexibly and at lower cost.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 Below is a quick introduction to installing Claude Code Router. The rough steps are as follows (you can also ask Trae to execute them) to prepare the environment:
 
@@ -523,7 +523,7 @@ After configuration, you can launch Codex with relayed API through `codex --prof
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode is an open-source AI coding agent platform for developers, positioned like a "multi-model version of Claude Code." It uses the terminal as the core interaction entry, while also supporting editor integrations (such as VS Code and Neovim). It can deeply connect with local repositories and complete an end-to-end workflow through natural language, from code understanding to engineering execution.
 
@@ -575,7 +575,7 @@ Copy the link to your browser and complete normal OpenAI login. After "Authoriza
 
 Another strength of OpenCode is its active community ecosystem. You can find many OpenCode-related plugins on GitHub. If OpenCode is a model-switchable AI collaboration tool, then Oh-My-OpenAgent is a "multi-agent AI coding orchestration system" running on top of OpenCode. It can split a complex task into sub-tasks and assign them to different models for specialized execution.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 You can copy the following prompt and send it to the model you already configured in OpenCode to install Oh My OpenAgent:
 

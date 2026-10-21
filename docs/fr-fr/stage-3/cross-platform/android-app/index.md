@@ -32,7 +32,7 @@ Dans le développement réel, il existe plusieurs façons de construire des appl
 **La première méthode : le développement natif**
 C'est la voie officielle et recommandée par Google. Vous utilisez directement **Kotlin** et **Jetpack Compose** pour le développement. Son avantage est d'offrir les meilleures performances et un accès complet au matériel du téléphone.
 
-![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **La deuxième méthode : le développement multiplateforme**
 Par exemple Flutter ou React Native. L'idée principale est « écrire une base de code et générer des applications Android et iOS. »

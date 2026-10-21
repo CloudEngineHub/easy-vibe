@@ -306,7 +306,7 @@ export ANTHROPIC_API_KEY="YOUR_DASHSCOPE_API_KEY"
 
 توفر الأداة أيضًا قدرة ملائمة على إدارة التهيئة عبر UI/CLI، وتكييف صيغ API للمنصات المختلفة من خلال "محولات (converter)". تدعم التكاملات الآلية مثل GitHub Actions والامتدادات المخصصة، وتحل مشكلات "النموذج الواحد لا يمكنه تغطية جميع السيناريوهات" و"التبديل المتكرر بين المنصات مزعج"، مما يساعد المستخدمين على استخدام أدوات AI بمرونة أكبر وتكاليف أقل.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 فيما يلي شرح موجز لكيفية تثبيت Claude Code Router. تحتاج تقريبًا إلى الخطوات التالية (يمكنك أيضًا أن تطلب من Trae تنفيذها لك) لتهيئة البيئة ذات الصلة:
 
@@ -527,7 +527,7 @@ I can use the command `codex --profile myrelay` to run it
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode هي منصة AI Coding Agent مفتوحة المصدر للمطورين، مُصممة كـ "نسخة متعددة النماذج من Claude Code". تستخدم الطرفية كنقطة دخول رئيسية للتفاعل، وتدعم أيضًا التكامل مع المحررات (مثل VS Code وNeovim وغيرها)، ويمكنها الاتصال بعمق بمستودعات الكود المحلية، وإتمام سير تطوير كامل من فهم الكود إلى تنفيذ الهندسة من خلال اللغة الطبيعية.
 
@@ -579,7 +579,7 @@ npm i -g opencode-ai
 
 تكمن قوة OpenCode أيضًا في مجتمعه النشط جدًا. يمكنك البحث في GitHub عن الكثير من الإضافات المتعلقة بـ OpenCode. إذا كان OpenCode أداة تعاون AI تتيح تبديل النماذج بحرية، فإن Oh-My-OpenAgent هو "نظام قيادة برمجة AI متعدد الوكلاء" يعمل فوق OpenCode. يمكنه تفكيك مهمة معقدة إلى مهام فرعية متعددة وتوزيعها على نماذج مختلفة ليعمل كل منها في اختصاصه.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 يمكنك نسخ النص التالي ولصقه للنموذج الذي قمت بتهيئته في OpenCode لتثبيت OpenCode.
 

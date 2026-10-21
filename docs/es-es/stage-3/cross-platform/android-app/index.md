@@ -32,7 +32,7 @@ En el desarrollo real, hay mas de una forma de construir aplicaciones Android. N
 **La primera forma: Desarrollo Nativo**
 Esta es la ruta oficial y recomendada por Google. Usas directamente **Kotlin** y **Jetpack Compose** para desarrollar. Su ventaja es el mejor rendimiento y acceso completo al hardware del telefono.
 
-![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **La segunda forma: Desarrollo Multiplataforma**
 Por ejemplo Flutter o React Native. La idea central es "escribir una base de codigo y generar aplicaciones tanto para Android como para iOS".

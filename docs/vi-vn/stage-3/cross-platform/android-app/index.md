@@ -32,7 +32,7 @@ Trong phát triển thực tế, có nhiều hơn một cách để xây dựng 
 **Cách thứ nhất: Phát triển Native**
 Đây là lộ trình chính thức và được Google khuyến nghị. Bạn trực tiếp sử dụng **Kotlin** và **Jetpack Compose** để phát triển. Ưu điểm của nó là hiệu suất tốt nhất và truy cập đầy đủ vào phần cứng điện thoại.
 
-![](/zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](/zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](/zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](/zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **Cách thứ hai: Phát triển Cross-Platform**
 Ví dụ Flutter hoặc React Native. Ý tưởng cốt lõi là "viết một codebase và tạo ra cả ứng dụng Android và iOS."

@@ -306,7 +306,7 @@ export ANTHROPIC_API_KEY="YOUR_DASHSCOPE_API_KEY"
 
 이 도구는 편리한 UI/CLI 설정 관리 기능도 제공하며, "변환기(converter)"를 통해 서로 다른 플랫폼의 API 형식에 적응합니다. GitHub Actions 등의 자동화 통합 및 커스텀 확장을 지원하여, "단일 모델로 모든 시나리오를 커버할 수 없는" 문제와 "플랫폼을 자주 전환하는 번거로움"을 해결하여 사용자가 더 유연하고 저렴하게 AI 도구를 활용할 수 있도록 도와줍니다.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 다음으로 Claude Code Router 설치 방법을 간단히 소개하겠습니다. 대략 다음 단계가 필요합니다(마찬가지로 Trae에게 실행을 도와달라고 할 수 있습니다).
 
@@ -527,7 +527,7 @@ I can use the command `codex --profile myrelay` to run it
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode는 개발자를 위한 오픈소스 AI Coding Agent 플랫폼으로, "다중 모델 버전의 Claude Code"와 같은 포지셔닝입니다. Terminal을 핵심 상호 작용 입구로 사용하며, 에디터 통합(예: VS Code, Neovim 등)도 지원하여 로컬 코드 저장소에 깊이 접근하고, 자연어를 통해 코드 이해부터 엔지니어링 실행까지의 전체 개발 프로세스를 완료할 수 있습니다.
 
@@ -579,7 +579,7 @@ OpenCode의 채팅 창에서 `/connect` 명령을 입력한 후, 첫 번째로 �
 
 OpenCode의 강력함은 매우 활발한 커뮤니티 생태계에도 있습니다. GitHub에서 OpenCode와 관련된 매우 많은 플러그인을 검색할 수 있습니다. OpenCode가 모델을 자유롭게 전환할 수 있는 AI 협업 도구라면, Oh-My-OpenAgent는 OpenCode 위에서 실행되는 "다중 Agent AI 프로그래밍 지휘 시스템"입니다. 하나의 복잡한 작업을 여러 서브 작업으로 나누어 다양한 모델에 분배하여 각자의 역할을 수행하게 합니다.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 다음 내용을 복사하여 앞서 OpenCode에 설정한 모델에 붙여넣어 OpenCode에 Oh-My-OpenAgent를 설치할 수 있습니다.
 

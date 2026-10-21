@@ -32,7 +32,7 @@ Android 開發是指建置此類應用程式的整個過程。在本教學採用
 **第一種方式：原生開發**
 這是 Google 官方推薦的路線。你直接使用 **Kotlin** 和 **Jetpack Compose** 進行開發。其優勢在於效能最佳，且能完整存取手機硬體。
 
-![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.webp)
+![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image2.png)![](../../../../zh-cn/stage-3/cross-platform/android-app/images/image3.png)
 
 **第二種方式：跨平台開發**
 例如 Flutter 或 React Native。其核心思想是「寫一份程式碼，同時產生 Android 和 iOS 應用程式」。

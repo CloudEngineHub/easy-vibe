@@ -304,7 +304,7 @@ Nous avons expliqué plus haut comment remplacer l'interface Anthropic de Claude
 
 Cet outil offre également des capacités de gestion de configuration UI/CLI pratiques, et s'adapte aux formats d'API des différentes plateformes via des « convertisseurs ». Il prend en charge les intégrations automatisées telles que GitHub Actions ainsi que des extensions personnalisées, résolvant le problème du « modèle unique ne couvrant pas tous les scénarios » et des « changements fréquents de plateforme fastidieux », pour aider les utilisateurs à tirer parti des outils IA de manière plus flexible et économique.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image17.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image17.png)
 
 Voici comment installer Claude Code Router. Les étapes générales sont les suivantes (vous pouvez également demander à Trae de les exécuter), pour préparer l'environnement nécessaire :
 
@@ -525,7 +525,7 @@ Une fois la configuration terminée, vous pouvez lancer Codex avec l'API relayé
 
 ![](/zh-cn/stage-2/backend/modern-cli/images/image32.png)
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image33.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image33.png)
 
 OpenCode est une plateforme open source d'agents de codage IA destinée aux développeurs, positionnée comme un « Claude Code multi-modèles ». Son interface d'interaction principale est le Terminal, et elle prend également en charge l'intégration d'éditeurs (VS Code, Neovim, etc.), pouvant se connecter en profondeur aux dépôts de code locaux et accomplir un flux de développement complet, de la compréhension du code à l'exécution d'ingénierie, via le langage naturel.
 
@@ -577,7 +577,7 @@ Copiez ce lien dans votre navigateur et procédez à une connexion OpenAI normal
 
 La force d'OpenCode réside également dans son écosystème communautaire très actif. Vous pouvez trouver de nombreux plugins liés à OpenCode sur Github. Si OpenCode est un outil collaboratif IA permettant de changer librement de modèle, alors Oh-My-OpenAgent est un « système de commandement multi-agents de programmation IA » fonctionnant au-dessus d'OpenCode. Il peut décomposer une tâche complexe en sous-tâches confiées à différents modèles, chacun travaillant dans son domaine de compétence.
 
-![](/zh-cn/stage-2/backend/modern-cli/images/image41.webp)
+![](/zh-cn/stage-2/backend/modern-cli/images/image41.png)
 
 Vous pouvez copier l'instruction suivante et la coller dans le modèle configuré précédemment dans OpenCode pour installer le plugin.
 

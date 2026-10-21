@@ -332,8 +332,6 @@ import { relatedArticlesMap } from '../../../../.vitepress/theme/data/relatedArt
 | **RackNerd** | ~$10／年（年付） | 超低價，適合非核心專案練手 | 純練手、預算極低 |
 | **雨雲** | ¥10／月起 | 國內廠商營運的海外 VPS，支付寶付款方便 | 國內使用者圖方便 |
 
-![Vultr 首頁](/zh-cn/stage-2/backend/cloud-server-deployment/images/vultr.png)
-
 **Vultr 購買流程（其他海外廠商類似）：**
 1. 前往 https://www.vultr.com/ 註冊帳號（需要信箱+信用卡/PayPal）
 2. 點擊 "Deploy Server"
